@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/mukaida/StduioProject/navigationsystem/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="spinner">
+        <item>危険(救難)</item>
+        <item>危険(避難中)</item>
+        <item>無事（避難所）</item>
+        <item>無事（自宅）</item>
+    </string-array>
+    <string name="app_name">navigation</string>
+    <string name="hello">Hello World, GetGpsActivity!</string>
+    <string name="kensaku">Start</string>
+    <string name="send">送信文字</string>
+    <string name="spinner_prompt">選択してください</string>
+    <string name="stats">測位状態</string>
+</resources>
